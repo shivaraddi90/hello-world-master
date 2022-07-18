@@ -5,6 +5,6 @@
 <h1> This is to check the build with jenkins !!! </h1>
 
 
-<h1> check the new tomcat server   !!! </h1>
+<h1> check the new tomcat server !!! </h1>
 
 
