@@ -5,7 +5,4 @@
 <h1> Thank to Kishan , Sanjay And Srinivas   </h1>
 <h1> Demo on Jenkins completed during july 4 th week   </h1>
 
-<h1> Full completed   </h1>
 
-<h1> Started working on docker file    </h1>
-<h1> Demo on Docker file    </h1>
